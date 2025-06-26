@@ -8,16 +8,16 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a 3rd-year B.Tech student majoring in Computer Science
-- 🤖 Currently diving deep into Machine Learning
+- 🤖 Currently diving deep into Spring Boot
 - 📈 Practising DSA daily to improve problem-solving
 - 🤝 Open to collaborations on impactful tech projects
-- 🕸 Fun Fact: I’m Spiderman without the webs, still building mine in code 😉
+- 🧩 Fun Fact: I write bugs faster than I fix them – but hey, that’s how you level up, right?
 
 ---
 
 ### 💼 Contact
 
-- 📍 Location: Delhi, India  
+- 📍 Location: Noida, India  
 - 📫 Email: [yashwardhan.1717@gmail.com](mailto:yashwardhan.1717@gmail.com)
 - 💼 LinkedIn: [Yashwardhan-linkedin](https://www.linkedin.com/in/yashwardhan17/)
 - 🐙 GitHub: [Yashwardhan17](https://github.com/yashwardhan17)  
@@ -72,9 +72,8 @@
 
 ### 🧠 Currently Exploring
 
-- Deep Learning 🔬
-- DevOps basics (Docker & GitHub Actions) ⚙
-- Open Source Projects 💡
+- 🧙‍♂️ Spring Boot - Building REST APIs and mastering backend magic
+- 💡 Open Source - Contributing to cool projects and learning from real-world code
 
 ---
 
