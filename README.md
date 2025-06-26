@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Ayush Saxena
+### 👋 Hey there! I'm Yashwardhan
 ---
 
 🚀 A passionate Computer Science student from Delhi, India, I love building scalable software and exploring the vast world of development and machine learning. Whether it's solving algorithmic puzzles or working on full-stack applications, I enjoy turning ideas into real-world solutions.
@@ -9,7 +9,7 @@
 
 - 🎓 I'm a 3rd-year B.Tech student majoring in Computer Science
 - 🤖 Currently diving deep into Machine Learning
-- 📈 Practicing DSA daily to improve problem-solving
+- 📈 Practising DSA daily to improve problem-solving
 - 🤝 Open to collaborations on impactful tech projects
 - 🕸 Fun Fact: I’m Spiderman without the webs, still building mine in code 😉
 
