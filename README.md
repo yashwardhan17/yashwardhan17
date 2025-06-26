@@ -20,8 +20,7 @@
 - 📍 Location: Delhi, India  
 - 📫 Email: [yashwardhan.1717@gmail.com](mailto:yashwardhan.1717@gmail.com)
 - 💼 LinkedIn: [Yashwardhan-linkedin](https://www.linkedin.com/in/yashwardhan17/)
-- 🐙 GitHub: [Ayushcode10](https://github.com/Ayushcode10)  
-- 🐦 Twitter/X: [brokennbadd](https://x.com/brokennbadd)
+- 🐙 GitHub: [Yashwardhan17](https://github.com/yashwardhan17)  
 
 ---
 
@@ -57,19 +56,18 @@
 
 ### 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushcode10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ayusshh__10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-saxena-293562257)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/brokennbadd)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwardhan17)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/yashwardhan17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwardhan17/)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushcode10&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushcode10&theme=tokyonight" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushcode10&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushcode10&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwardhan17&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwardhan17&theme=tokyonight" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushcode10&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushcode10&theme=tokyonight" /> </p>
 
 ---
 ### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ayushcode10&theme=tokyonight&no-bg=true&no-frame=true&column=7" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yashwardhan17&theme=tokyonight&no-bg=true&no-frame=true&column=7" /> </p>
 ---
 
 ### 🧠 Currently Exploring
