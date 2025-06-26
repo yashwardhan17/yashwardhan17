@@ -63,7 +63,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwardhan17&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwardhan17&theme=tokyonight" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushcode10&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushcode10&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwardhan17&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwardhan17&theme=tokyonight" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwardhan17&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashwardhan17&theme=tokyonight" /> </p>
 
 ---
 ### 🏆 GitHub Trophies
