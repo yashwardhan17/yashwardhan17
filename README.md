@@ -18,8 +18,8 @@
 ### 💼 Contact
 
 - 📍 Location: Delhi, India  
-- 📫 Email: [ayushh.code@gmail.com](mailto:yashwardhan.1717@gmail.com)
-- 💼 LinkedIn: [ayush-saxena-293562257](https://www.linkedin.com/in/yashwardhan17/)
+- 📫 Email: [yashwardhan.1717@gmail.com](mailto:yashwardhan.1717@gmail.com)
+- 💼 LinkedIn: [Yashwardhan-linkedin](https://www.linkedin.com/in/yashwardhan17/)
 - 🐙 GitHub: [Ayushcode10](https://github.com/Ayushcode10)  
 - 🐦 Twitter/X: [brokennbadd](https://x.com/brokennbadd)
 
