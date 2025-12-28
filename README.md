@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 3rd-year B.Tech student majoring in Computer Science
+- 🎓 I'm a final year B.Tech student majoring in Computer Science
 - 🤖 Currently diving deep into Spring Boot
 - 📈 Practising DSA daily to improve problem-solving
 - 🤝 Open to collaborations on impactful tech projects
